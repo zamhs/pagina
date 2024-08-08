@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(192, 140, 131);
+}
+.boton{
+    width: 100px;
+    height: 200px;
+    background-color: aliceblue;
+}
+.gato{
+ 
+    text-align: center;
+   
+}
+.gatoimg{
+    width: 300px;
+    height: 400px;
+  
+}
+.hola{
+    text-align: center;
+}
